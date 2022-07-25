@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Exercício realizado durante as aulas de FlexBox
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+## Dio.me
 
 ### Os requisitos são:
 
